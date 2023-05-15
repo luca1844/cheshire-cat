@@ -1,8 +1,4 @@
 <script setup lang="ts">
-import { useNotifications } from '@stores/useNotifications'
-import { uniqueId } from '@utils/commons'
-
-const { showNotification } = useNotifications()
 </script>
 
 <template>
